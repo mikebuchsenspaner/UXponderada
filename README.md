@@ -3,7 +3,7 @@
 
 ### Tela de Login (Relacionada à autenticação)
 
-![Tela de Login](../assets/Login.png)
+<img width="112" alt="Image" src="https://github.com/user-attachments/assets/a9967475-b195-48f8-bf43-b22a1e21ca74" />
 
 
 
