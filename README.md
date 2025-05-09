@@ -3,13 +3,13 @@
 
 ### Tela de Login (Relacionada à autenticação)
 
-![Tela de Login](./assets/wireframes/login.png)
+![Tela de Login](../assets/Login.png)
 
 ---
 
 ### Tela Principal / Dashboard (Relacionada às US01, US02, US05)
 
-![Dashboard](./assets/wireframes/dashboard.png)
+![Dashboard](../assets/tela principal.png)
 
 > Essa tela reúne os botões de navegação que dão acesso às funcionalidades principais: novidades, notas, frequência, calendário e avisos. Representa o ponto de entrada para o acompanhamento escolar.
 
